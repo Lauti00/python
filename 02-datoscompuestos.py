@@ -17,7 +17,7 @@ conjunto={"Lautaro", "Dario", True , 1.85}
 #print(conjunto[1]) NO ES POSIBLE a diferencia de las listas
 print(conjunto) #No se puede acceder por un indice y no almacena datos duplicados
 
-#Creando diccionario
+#Creando diccionario.. (se utiliza clave-valor.. se separa con comas)
 diccionario={
     'nombre': "Lautaro",
     'altura' : 1.63 ,

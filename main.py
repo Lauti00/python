@@ -11,7 +11,7 @@ print(texto + " " + nombre +" "+ altura)
 
 #Entrada de datos
 sitioweb= input("Cual es tu pagina web??")
-print(sitioweb)
+
 print("El sitio web del usuario es:"+ sitioweb)
 
 #Condiciones
@@ -41,4 +41,7 @@ mostrarAltura()
 personas= "Victor", "Paco", "Pepe"
 print(personas[0])
 
+for persona in personas:
+    print(personas)
 
+print("EL VALOR ES:" + 50 )
