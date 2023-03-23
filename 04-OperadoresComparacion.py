@@ -35,3 +35,4 @@ if ingreso_mensual>30000 & ingreso_mensual<90000:
 
 if ingreso_mensual>100000:
     print("El sueldo es correcto")
+

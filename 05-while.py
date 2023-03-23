@@ -1,10 +1,3 @@
-"""realizar un programa que imprima en pantalla los numeros del 1 al 100
-numero = 1
-
-while(numero<=100):
-    print(numero)
-    numero+=1
-"""
 numero =1
 menu=' '
 
@@ -16,9 +9,9 @@ print("d.Imprimir los numeros del 2 al 100 pero de 2 en 2")
 menu= input("Seleccione la accion requerida")
 
 if menu=='a':
-        while numero<=500:
-            print(numero)
-            numero+=1
+     while numero<=500:
+        print(numero)
+        numero+=1
 
 if menu=='b':
     numero=50
@@ -38,6 +31,6 @@ if menu=='d':
         print(numero)
         numero+=2
 
-menu=input("Si desea continuar pulse s")
+
 
 
